@@ -17,6 +17,7 @@ namespace ExpenseIt2
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
+    /// basic walkthrough for learning WPF
     /// </summary>
     public partial class MainWindow : NavigationWindow
     {

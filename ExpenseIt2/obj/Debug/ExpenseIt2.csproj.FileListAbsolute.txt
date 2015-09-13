@@ -16,3 +16,6 @@ c:\users\chris\documents\visual studio 2015\Projects\ExpenseIt2\ExpenseIt2\obj\D
 c:\users\chris\documents\visual studio 2015\Projects\ExpenseIt2\ExpenseIt2\obj\Debug\ExpenseIt2.csproj.GenerateResource.Cache
 c:\users\chris\documents\visual studio 2015\Projects\ExpenseIt2\ExpenseIt2\obj\Debug\ExpenseIt2.exe
 c:\users\chris\documents\visual studio 2015\Projects\ExpenseIt2\ExpenseIt2\obj\Debug\ExpenseIt2.pdb
+C:\Users\chris\Documents\GitHub\ExpenseIt2\ExpenseIt2\bin\Debug\ExpenseIt2.exe.config
+C:\Users\chris\Documents\GitHub\ExpenseIt2\ExpenseIt2\obj\Debug\ExpenseIt2.exe
+C:\Users\chris\Documents\GitHub\ExpenseIt2\ExpenseIt2\obj\Debug\ExpenseIt2.pdb
