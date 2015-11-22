@@ -1,3 +1,3 @@
-# First_WPF_App
+# First WPF_ pp
 A app built to learn basics of Windows Presentation Foundation (WPF) development. Exercise 
-via MSDN documets.
+via MSDN documents.
